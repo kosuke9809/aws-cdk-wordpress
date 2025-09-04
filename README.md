@@ -10,7 +10,7 @@
 - `~/.aws/credentials`に以下のように設定する
 
     ```ini
-    [kubell]
+    [wordpress]
     aws_access_key_id = <アクセスキー>
     aws_secret_access_key = <シークレットキー>
     ```
